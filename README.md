@@ -1,4 +1,3 @@
-# DataValidation
 # Data Validation in HTML and JavaScript using Regex and REST API
 
 In this task, we aim to create a web application consisting of two pages. The first page will feature a form for data input, and the second page will provide a summary of the entered data. The application will include validation for input data. If users input incorrect data, fields with erroneous values will be highlighted as errors, and users will be informed about the incorrectness in the respective field.
